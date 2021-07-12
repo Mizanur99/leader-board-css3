@@ -94,10 +94,12 @@ hr{
      display: flex;
      align-items: center;
      justify-content: space-between;
+     font-size: 20px;
  }
  .course-duration{
      background-color: #FF4A60;
      border-radius: 2px solid;
+     font-size: 14px;
  }
 
  
